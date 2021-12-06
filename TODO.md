@@ -4,6 +4,9 @@ If you have any suggestions or comments, feel free to contact me on the
 mailing list or directly per mail. Before starting to work on a feature,
 please check back with me briefly about its status.
 
+## Forked project targets:
+- [ ] restore word clouds
+- [ ] internal preview
 
 ## Important features
 
